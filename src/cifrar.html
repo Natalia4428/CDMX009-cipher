@@ -1,0 +1,45 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Cifrar</title>
+    <link href="stylecifrar.css" rel="stylesheet" type="text/css"/>
+  </head>
+     <div align="center"><h1>CIFRAR</h1>
+         <script src="cifrar.js"></script>
+  </head>
+<body>
+ <div align="center"><p>Introduce el texto y número de desplazamientos para comenzar</p>
+ <div align="center"><p>Texto:</p><form name="formulario1">
+<textarea placeholder="Escribe aquí el texto..." type="text1" name="caja1" value="" size=20 cols="75" rows="7"></textarea>
+
+ <div align="center"> <p>Número desplazamientos:</p><form name="desplazar" method="post" action="mostrarMensaje">
+  <!-- Lista de selección -->
+ <div align="center"><select name="combo">
+    <!-- Opciones de la lista -->
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+
+  </select>
+</form>
+ <div align="center"><input type="button" value="cifrar" onclick="decodificar()"></p>
+
+
+
+ <div align="center"><textarea placeholder="Escribe aquí el texto..." type="text2" name="caja2" value="" size=20 cols="75" rows="7"></textarea>
+
+
+
+ <div align="center"><p><form name="buttonbar">
+          <a href="index.html"><input type="button" value="VOLVER AL INICIO"></a>
+        </form></p>
+ </body>

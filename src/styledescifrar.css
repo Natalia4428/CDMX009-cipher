@@ -1,0 +1,15 @@
+body { background-color:  #E762D7FF;
+position: absolute;
+width: 1366px;
+height: 768px;
+}
+h1 {position: center;
+width: 793px;
+height: 132px;
+left: calc(50% - 793px/2 + 0.5px);
+top: calc(50% - 132px/2 - 391px);
+
+background: #97CE4C;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+}
