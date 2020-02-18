@@ -14,6 +14,12 @@ Es un juego para adolescentes basado en una serie animada que los introduce a lo
 
 ![alt text](https://raw.githubusercontent.com/Natalia4428/CDMX009-cipher/1640b3896149c674ea91e0ac335ec32aaad3360c/imagenesnatalia/resultadofinal1.png)
 
+![alt text](https://raw.githubusercontent.com/Natalia4428/CDMX009-cipher/master/imagenesnatalia/resultadofinal2.png)
+
+![alt text](https://raw.githubusercontent.com/Natalia4428/CDMX009-cipher/master/imagenesnatalia/resultadofinal3.png)
+
+
+
 * Investigación UX:
 Explicar quiénes son los usuarios y los objetivos en relación con el producto.
 
@@ -26,8 +32,7 @@ Considero que el producto cumple una función didáctica y de entretenimiento. L
 
 * Luego colocarás la foto de tu primer prototipo en papel.
 
-
-* Luego colocarás la foto de tu primer prototipo en papel.
+![alt text](https://raw.githubusercontent.com/Natalia4428/CDMX009-cipher/master/imagenesnatalia/prototipoenpapel.jpg)
 
 * Agregar un resumen del feedback recibido indicando las mejoras a realizar.
 
@@ -36,3 +41,8 @@ Se me sugirió dejar menos pantallas para no hacer un código tan largo, retirar
 También me aconsejaron agregar encabezado y pie de página desde el prototipo para no olvidarlo al momento de realizar el código.
 
 * Imagen del prototipo final.
+![alt text](https://raw.githubusercontent.com/Natalia4428/CDMX009-cipher/master/imagenesnatalia/ScreenshotFigma1.png)
+
+![alt text](https://raw.githubusercontent.com/Natalia4428/CDMX009-cipher/master/imagenesnatalia/ScreenshotFigma2.png)
+
+![alt text](https://raw.githubusercontent.com/Natalia4428/CDMX009-cipher/master/imagenesnatalia/ScreenshotFigma3.png)
