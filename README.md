@@ -12,7 +12,7 @@ Es un juego para adolescentes basado en una serie animada que los introduce a lo
 
 * La imagen final de tu proyecto.
 
-![alt text] (https://raw.githubusercontent.com/Natalia4428/CDMX009-cipher/1640b3896149c674ea91e0ac335ec32aaad3360c/imagenesnatalia/resultadofinal1.png)
+![alt text](https://raw.githubusercontent.com/Natalia4428/CDMX009-cipher/1640b3896149c674ea91e0ac335ec32aaad3360c/imagenesnatalia/resultadofinal1.png)
 
 * Investigación UX:
 Explicar quiénes son los usuarios y los objetivos en relación con el producto.
