@@ -11,7 +11,7 @@ Decodificador Rick Sánchez.
 Es un juego para adolescentes basado en una serie animada que los introduce a los fundamentos básicos del cifrado.
 
 * La imagen final de tu proyecto.
-![alt text]
+
 ![alt text] https://github.com/Natalia4428/CDMX009-cipher/blob/master/imagenesnatalia/resultadofinal1.png
 
 * Investigación UX:
