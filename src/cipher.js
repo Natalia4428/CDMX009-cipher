@@ -8,6 +8,8 @@ document.getElementById("pantalla").innerHTML = "Tu texto es:" +  abc;
 }
 
 
+if {(64<numero<123){
+num=(num-97+offset)%26+65}
 
 abc.charCodeAt(0);
 document.write(elementos);
