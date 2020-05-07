@@ -4,7 +4,7 @@ let elementos = document.getElementById ("elmensaje")
 console.log(abc.length);
 
 function cifrar() {
-document.getElementById("pantalla").innerHTML = "Tu texto es:" +  abc;
+document.getElementById("screen").innerHTML = "Tu texto es:" +  abc;
 }
 
 
