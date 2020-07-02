@@ -1,53 +1,110 @@
-body { background-color:  #000000;
-  position: absolute;
-  width: 1366px;
-  height: 768px;
-  font-size: 100%;
+body {
+  background-color: #000000;
 }
 
-h1{
-position: center;
-width: 793px;
-height: 132px;
-left: calc(50% - 793px/2 + 0.5px);
-top: calc(50% - 132px/2 - 391px);
-font-size: 250%;
-down:50%;
-right: 50%;
-background: #43D02E;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-border-radius: 50px;
+h1 {
+  font-size: 200%;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  justify-content: center;
 }
 
-text{
-position: absolute;
-width: 832px;
-height: 336px;
-left: calc(50% - 832px/2 + 2px);
-top: calc(50% - 336px/2 - 2px);
-background: #E6E0CE;
-border-radius: 50px;
+#imagenes {
+  display: flex;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  display: block;
+  margin: auto;
+  width: 400px;
+  height: 400px;
 }
 
-#footer {
-  height: 50px;
-  font-size: 80%;
+#texto {
+  position: center;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 150;
+  text-align: center;
+  justify-content: center;
 }
 
-#footer-content {
-  background-color: #ffffff;
-  border: 1px solid #3e4141;
-  height: 32px;
-  padding: 8px;
+p {
+  position: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  justify-content: center;
 }
 
-#background-image {
-background-image: url("https://vignette.wikia.nocookie.net/rickandmorty/images/0/04/Rick-and-morty-season-4.jpg/revision/latest?cb=20190515180638");
-position: center;
+footer {
+  background-color: #222222;
+  position: center;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 100;
+  text-align: center;
+  justify-content: center;
 }
 
-div { color: 000000);
-position: middle;
-font-family:"courier";
-font-size: 120%;
- }
+#botones {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-weight: bold;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 6px;
+  border: 2px solid #00afc7;
+  float: center;
+  width: 80px;
+  height: 30px;
+}
+
+a {
+  align: center;
+  display: flex;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  display: block;
+  margin: auto;
+}
+
+h2 {
+  font-size: 150%;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  justify-content: center;
+}
+
+h3 {
+  font-size: 180%;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  justify-content: center;
+}
+
+h4 {
+  font-size: 180%;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  justify-content: center;
+}
+
+img{
+  width: 600px;
+  height: 550px;
+}
+
+#container{
+  color:gainsboro;
+}
